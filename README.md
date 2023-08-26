@@ -1,8 +1,13 @@
-<img src="Souce code-amico.png" min-width="400px" max-width="400px" width="400px" align="right" alt="notebook birobirobiro">
-### Paula Martins - Desenvolvedora Backend
+<img src="pc.png" min-width="400px" max-width="350px" width="350px" align="right" alt="notebook birobirobiro">
+
+<h2> Paula Martins - Desenvolvedora Backend </h2>
 
   - 💬 Desenvolvedora Backend
 - ⚡ Motivada
+
+<h2> Skills </h2>
+
+
 
 # 📊 GitHub Stats:
 
