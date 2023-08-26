@@ -1,4 +1,4 @@
-<img src="[https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png](https://www.freepik.com/free-vector/isometric-online-education-concept_4470746.htm#query=digital%20learning&position=10&from_view=keyword&track=ais)" min-width="400px" max-width="400px" width="400px" align="right" alt="notebook birobirobiro">
+<img src="Souce code-amico.png" min-width="400px" max-width="400px" width="400px" align="right" alt="notebook birobirobiro">
 ### Paula Martins - Desenvolvedora Backend
 
   - 💬 Desenvolvedora Backend
