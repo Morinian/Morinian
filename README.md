@@ -15,7 +15,7 @@
 
 <h2>🔥 Skills </h2>
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=php,html,css,java,eclipse,mysql,git">
+    <img src="https://skillicons.dev/icons?i=php,html,css,java,mysql,git">
   </p>
 
 <h2>📈 GitHub Stats </h2>
