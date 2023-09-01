@@ -3,6 +3,7 @@
 <h1>💫 Paula Martins de Souza 💫</h1>
 
 - 💾 Desenvolvedora Backend
+- 💙 Aluna do instituto Proa 
 - ⚡ Apaixonada por solucionar desafios complexos
 - ⚙️ Mergulhando profundamente na lógica
 - 📚 Exploração de novos horizontes através dos livros
