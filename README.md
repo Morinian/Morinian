@@ -1,4 +1,4 @@
-<img src="pc.png" min-width="400px" max-width="350px" width="350px" align="right" alt="notebook code">
+<img src="gif.gif" min-width="400px" max-width="350px" width="350px" align="right" alt="notebook code">
 
 <h1>💫 Paula Martins de Souza 💫</h1>
 
