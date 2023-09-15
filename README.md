@@ -1,6 +1,6 @@
-<img src="computer.gif" min-width="400px" max-width="350px" width="350px" align="right" alt="notebook code">
+<img src="computer.gif" min-width="400px" max-width="350px" width="350px" align="right" alt="notebook code" >
 
-<h1>💫 Paula Martins de Souza 💫</h1>
+<h1 >💫 Paula Martins de Souza 💫</h1>
 
 - 💾 Desenvolvedora Backend
 - 💙 Aluna do instituto Proa 
