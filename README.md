@@ -23,5 +23,5 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Morinian&show_icons=true&count_private=true&hide_border=true&title_color=FF1C22&icon_color=FF1C22&text_color=FFD2D6&bg_color=0d1117" alt="Paula Martins github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Morinian&layout=compact&hide_border=true&title_color=FF1C22&text_color=FFD2D6&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Morinian&layout=compact&hide_border=true&title_color=FF1C22&text_color=FFD2D6&bg_color=0d1117"/>
 </div>
