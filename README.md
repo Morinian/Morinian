@@ -3,7 +3,7 @@
 <h1 >💫 Paula Martins de Souza 💫</h1>
 
 - 💾 Desenvolvedora
-- 🔥  Cursando Bacharel em ciência da computação
+- 🔥 Cursando Bacharel em ciência da computação
 - 💙 Ex-Aluna do instituto Proa 
 - ⚡ Apaixonada por solucionar desafios complexos
 - ⚙️ Mergulhando profundamente na lógica
