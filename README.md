@@ -9,7 +9,6 @@
 - ⚙️ Mergulhando profundamente na lógica
 - 📚 Exploração de novos horizontes através dos livros
 
-
 <h2>☎️ Contato </h2>
   <p align="center">
     <a href="https://www.linkedin.com/in/paulamorin/"><img src="https://skillicons.dev/icons?i=linkedin"></a>
