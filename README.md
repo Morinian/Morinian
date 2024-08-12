@@ -3,11 +3,11 @@
 <h1 >💫 Paula Martins de Souza 💫</h1>
 
 - 💾 Desenvolvedora
-- 🔥 Cursando Bacharel em ciência da computação
-- 💙 Ex-Aluna do instituto Proa 
-- ⚡ Apaixonada por solucionar desafios complexos
-- ⚙️ Mergulhando profundamente na lógica
-- 📚 Exploração de novos horizontes através dos livros
+- 🔥 Cursando Bacharel em Ciência da Computação
+- 💙 Formada no Instituto Proa 
+- ⚡ Apaixonada por Solucionar Desafios Complexos
+- ⚙️ Mergulhando Profundamente na Lógica
+- 📚 Exploração de Novos Horizontes Através dos Livros
 
 <h2>☎️ Contato </h2>
   <p align="center">
