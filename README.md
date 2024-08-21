@@ -28,6 +28,20 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Morinian&layout=compact&hide_border=true&title_color=FF1C22&text_color=FFD2D6&bg_color=0d1117"/>
 </div>
 
+### 🏆 GitHub Profile Trophy
+
+<p align="center">
+  <a
+    href="https://github.com/ryo-ma/github-profile-trophy"
+    title="repositório de troféus"
+  >
+    <img
+      width="800"
+      src="https://github-profile-trophy.vercel.app/?username=Morinian&column=8&theme=darkhub&no-frame=true&no-bg=true"
+    />
+  </a>
+</p>
+
 <div align="center">
   <h3><b>📍 Profile Visitor Count</b></h3>
 </div>
