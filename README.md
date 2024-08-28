@@ -2,7 +2,7 @@
 
 <h1 >💫 Paula Martins de Souza 💫</h1>
 
-- 💾 Desenvolvedora
+- 💾 Engenheira de dados
 - 🔥 Cursando Bacharel em Ciência da Computação
 - 💙 Formada no Instituto Proa 
 - ⚡ Apaixonada por Solucionar Desafios Complexos
