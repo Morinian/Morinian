@@ -12,7 +12,7 @@
 <h2>☎️ Contato </h2>
   <p align="center">
     <a href="https://www.linkedin.com/in/paulamorin/"><img src="https://skillicons.dev/icons?i=linkedin"></a>
-    <a href="https://www.instagram.com/paula_mori_/"><img src="https://skillicons.dev/icons?i=instagram"></a>
+    <a href="https://www.instagram.com/ipaulinha_/"><img src="https://skillicons.dev/icons?i=instagram"></a>
   </p>
 
 
